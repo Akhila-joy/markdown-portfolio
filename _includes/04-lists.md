@@ -1,15 +1,15 @@
--Item 1
+- item 1
 
--Item 2
+- item 2
 
--Item 3
+- item 3
 
-   -Item 3a
+   - item 3a
 
-   -Item 3b
+   - item 3b
 
--Item 1
--Item 2
--Item 3
--Item 3a
--Item 3b
+- item 1
+- item 2
+- item 3
+- item 3a
+- item 3b
